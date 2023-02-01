@@ -28,6 +28,3 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
     $ git pull
     $ python run.py
 
-
-- Notice me: ```Anda bisa membeli lisensi tools``` <a href="https://wa.me/+6281221523195">Klik disini</a>
-
