@@ -8,7 +8,11 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
     $ pkg update && pkg upgrade
     $ pkg install python git
     $ pkg install play-audio
-    $ rm -rf XyraInsta
+    $ pip install requests
+    $ pip jnstall mechanize
+    $ pip install bs4
+    $ pip install rich
+    $ rm -rf PMBF
     $ git clone https://github.com/Petzzz-XD/PMBF
     $ cd PMBF
     $ python run.py
